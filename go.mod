@@ -1,4 +1,4 @@
-module https://github.com/theflashiscool2/dictionaryapi
+module github.com/theflashiscool2/dictionaryapi
 
 go 1.19
 
